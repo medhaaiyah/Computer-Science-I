@@ -1,0 +1,100 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/medha/CLionProjects/Assignment 4/assignment4.cpp
+memoryLeak.h
+C:/Users/medha/CLionProjects/Assignment 4/memoryLeak.h
+iostream
+-
+string
+-
+userList.h
+C:/Users/medha/CLionProjects/Assignment 4/userList.h
+menuList.h
+C:/Users/medha/CLionProjects/Assignment 4/menuList.h
+userListCommands.h
+C:/Users/medha/CLionProjects/Assignment 4/userListCommands.h
+
+C:/Users/medha/CLionProjects/Assignment 4/command.h
+
+C:/Users/medha/CLionProjects/Assignment 4/memoryLeak.h
+cstdlib
+-
+iostream
+-
+map
+-
+memory
+-
+iomanip
+-
+limits
+-
+
+C:/Users/medha/CLionProjects/Assignment 4/menuList.h
+string
+-
+ios
+-
+vector
+-
+string
+-
+command.h
+C:/Users/medha/CLionProjects/Assignment 4/command.h
+
+C:/Users/medha/CLionProjects/Assignment 4/stack.h
+cstddef
+-
+cassert
+-
+iostream
+-
+
+C:/Users/medha/CLionProjects/Assignment 4/userList.cpp
+iostream
+-
+iomanip
+-
+utility
+-
+string
+-
+stack.h
+C:/Users/medha/CLionProjects/Assignment 4/stack.h
+userList.h
+C:/Users/medha/CLionProjects/Assignment 4/userList.h
+
+C:/Users/medha/CLionProjects/Assignment 4/userList.h
+memoryLeak.h
+C:/Users/medha/CLionProjects/Assignment 4/memoryLeak.h
+iostream
+-
+string
+-
+map
+-
+
+C:/Users/medha/CLionProjects/Assignment 4/userListCommands.cpp
+userListCommands.h
+C:/Users/medha/CLionProjects/Assignment 4/userListCommands.h
+iostream
+-
+string
+-
+
+C:/Users/medha/CLionProjects/Assignment 4/userListCommands.h
+memoryLeak.h
+C:/Users/medha/CLionProjects/Assignment 4/memoryLeak.h
+string
+-
+command.h
+C:/Users/medha/CLionProjects/Assignment 4/command.h
+userList.h
+C:/Users/medha/CLionProjects/Assignment 4/userList.h
+

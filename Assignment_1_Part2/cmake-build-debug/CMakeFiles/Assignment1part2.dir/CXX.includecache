@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/medha/CLionProjects/Assignment1part2/assignment1part2.cpp
+drinkmachine.h
+C:/Users/medha/CLionProjects/Assignment1part2/drinkmachine.h
+
+C:/Users/medha/CLionProjects/Assignment1part2/drinkmachine.h
+iostream
+-
+fstream
+-
+iomanip
+-
+

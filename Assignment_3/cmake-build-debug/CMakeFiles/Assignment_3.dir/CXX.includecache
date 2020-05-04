@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/medha/CLionProjects/Assignment 3/Assignment3.cpp
+iostream
+-
+PhoneEntry.h
+C:/Users/medha/CLionProjects/Assignment 3/PhoneEntry.h
+PhoneBook.h
+C:/Users/medha/CLionProjects/Assignment 3/PhoneBook.h
+
+C:/Users/medha/CLionProjects/Assignment 3/PhoneBook.h
+PhoneEntry.h
+C:/Users/medha/CLionProjects/Assignment 3/PhoneEntry.h
+
+C:/Users/medha/CLionProjects/Assignment 3/PhoneEntry.h
+
